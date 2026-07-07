@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Maher-Magdy&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Maher-Magdy)
 [![GitHub Followers](https://img.shields.io/github/followers/Maher-Magdy?style=social)](https://github.com/Maher-Magdy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maher-magdy-kamal)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mail.google.com/mail/?view=cm&fs=1&to=mahermagdykamal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mahermagdykamal@gmail.com)
 
 </div>
 
